@@ -1,2 +1,2 @@
 # ToDoList
-To-Do List iOS App
+To-Do List iOS App using tabbed application.
